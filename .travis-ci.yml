@@ -1,2 +1,3 @@
 language: bash
-script: - bash hello.sh
+script: 
+  - bash hello.sh
