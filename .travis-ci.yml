@@ -1,3 +1,3 @@
 language: minimal
 script: 
-  - bash hello.sh
+   echo "Hellow World!"
